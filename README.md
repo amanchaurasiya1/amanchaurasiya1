@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![amanchaurasiya1's GitHub | Stats](https://stats.quine.sh/amanchaurasiya1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amanchaurasiya1)
+
 <!--
 **amanchaurasiya1/amanchaurasiya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
